@@ -1,0 +1,70 @@
+.masthead {
+    display: flex;
+    align-items: center;
+
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.btn {
+    background-color: #017cff;
+    color: white;
+    font-weight: 600;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 12px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 3px 3px black;
+}
+
+.btn:hover {
+    background-color: #ffffff;
+    color: #017cff;
+}
+
+.textbox {
+    display: inline-block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.txt {
+    text-align: center;
+    font-family: sans-serif;
+
+}
+
+.line1 {
+    border: solid 3px #26059c;
+}
+  
+.line2 {
+    border: solid 5px #e71b1b;
+}
+
+.logo {
+    display: inline-block;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 30px;
+    margin-left: 20px;
+}
+
+.txt1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: darkblue;
+}
